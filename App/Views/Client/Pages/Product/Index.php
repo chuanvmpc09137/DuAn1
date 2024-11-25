@@ -12,7 +12,7 @@ class Index extends BaseView
 
 ?>
 
-
+        <!-- chi tiet -->
         <div class="container mt-5 mb-5">
             <div class="row">
                 <div class="col-md-12">
