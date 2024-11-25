@@ -1386,3 +1386,29 @@ Stack trace:
 [25-Nov-2024 12:47:22 Asia/Ho_Chi_Minh] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\duan1_nhom31\Duan1\App\Views\Client\Pages\Product\Detail.php on line 178
 [25-Nov-2024 12:47:40 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "description" in D:\duan1_nhom31\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
 [25-Nov-2024 12:47:40 Asia/Ho_Chi_Minh] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\duan1_nhom31\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[25-Nov-2024 14:27:20 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "product_by_category" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Category\Index.php on line 115
+[25-Nov-2024 14:27:20 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "comment_by_product" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Category\Index.php on line 145
+[25-Nov-2024 14:27:44 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "product_by_category" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Category\Index.php on line 115
+[25-Nov-2024 14:27:44 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "comment_by_product" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Category\Index.php on line 145
+[25-Nov-2024 14:27:52 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "product_by_category" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Category\Index.php on line 115
+[25-Nov-2024 14:27:52 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "comment_by_product" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Category\Index.php on line 145
+[25-Nov-2024 14:27:57 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "product_by_category" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Category\Index.php on line 115
+[25-Nov-2024 14:27:57 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "comment_by_product" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Category\Index.php on line 145
+[25-Nov-2024 14:28:14 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "product_by_category" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Category\Index.php on line 115
+[25-Nov-2024 14:28:14 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "comment_by_product" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Category\Index.php on line 145
+[25-Nov-2024 14:28:18 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "product_by_category" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Category\Index.php on line 115
+[25-Nov-2024 14:28:18 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "comment_by_product" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Category\Index.php on line 145
+[25-Nov-2024 14:28:20 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "product_by_category" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Category\Index.php on line 115
+[25-Nov-2024 14:28:20 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "comment_by_product" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Category\Index.php on line 145
+[25-Nov-2024 14:29:23 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "product_by_category" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Category\Index.php on line 115
+[25-Nov-2024 14:29:23 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "comment_by_product" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Category\Index.php on line 145
+[25-Nov-2024 14:31:05 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "description" in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[25-Nov-2024 14:31:05 Asia/Ho_Chi_Minh] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[25-Nov-2024 14:31:12 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "description" in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[25-Nov-2024 14:31:12 Asia/Ho_Chi_Minh] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[25-Nov-2024 14:31:18 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "description" in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[25-Nov-2024 14:31:18 Asia/Ho_Chi_Minh] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[25-Nov-2024 14:31:23 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "description" in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[25-Nov-2024 14:31:23 Asia/Ho_Chi_Minh] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[25-Nov-2024 15:29:33 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "user" in D:\DuAn1\DUAN1\Duan1\App\Helpers\AuthHelper.php on line 158
+[25-Nov-2024 15:29:39 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "user" in D:\DuAn1\DUAN1\Duan1\App\Helpers\AuthHelper.php on line 158
