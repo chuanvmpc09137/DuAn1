@@ -41,10 +41,10 @@ class ProductValidation {
             $is_valid = false;
         }
         // nổi bật
-        if (!isset($_POST['is_feature']) || $_POST['is_feature'] === '') {
-            NotificationHelper::error('is_feature', 'Không để trống  nổi bật');
-            $is_valid = false;
-        }       
+        // if (!isset($_POST['is_feature']) || $_POST['is_feature'] === '') {
+        //     NotificationHelper::error('is_feature', 'Không để trống  nổi bật');
+        //     $is_valid = false;
+        // }       
         //trạng thái
         if (!isset($_POST['status']) || $_POST['status'] === '') {
             NotificationHelper::error('status', 'Không để trống  trạng thái');

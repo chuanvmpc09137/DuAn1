@@ -101,7 +101,7 @@ class ProductController
             'price' => $_POST['price'],
             'discount_price' => $_POST['discount_price'],
             'description' => $_POST['description'],
-            'is_feature' => $_POST['is_feature'],
+            // 'is_feature' => $_POST['is_feature'],
             'status' => $_POST['status'],
             'category_id' => $_POST['category_id'],
         ];
@@ -209,7 +209,7 @@ public static function update(int $id)
         'price' => $_POST['price'],
         'discount_price' => $_POST['discount_price'],
         'description' => $_POST['description'],
-        'is_feature' => $_POST['is_feature'],
+        // 'is_feature' => $_POST['is_feature'],
         'status' => $_POST['status'],
         'category_id' => $_POST['category_id'],
     ];

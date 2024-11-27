@@ -79,9 +79,9 @@ class Edit extends BaseView
                                             value="<?= $data['product']['discount_price'] ?>">
                                     </div>
                                     <div class="form-group">
-                                        <label for="description">Mô tả</label>
-                                        <textarea class="form-control" id="description" placeholder="Nhập mô tả..."
-                                            name="description" value="<?= $data['product']['description'] ?>"></textarea>
+                                        <label for="discription">Mô tả</label>
+                                        <textarea class="form-control" id="discription" placeholder="Nhập mô tả..."
+                                            name="discription" value="<?= $data['product']['discription'] ?>"></textarea>
                                     </div>
                                     <div class="form-group">
                                         <label for="category_id">Loại sản phẩm*</label>
@@ -100,7 +100,7 @@ class Edit extends BaseView
                                         </select>
                                     </div>
 
-                                    <div class="form-group">
+                                    <!-- <div class="form-group">
                                         <label for="is_feature">Sản phẩm nổi bật*</label>
                                         <select class="select2 form-select shadow-none" style="width: 100%; height:36px;"
                                             id="is_feature" name="is_feature">
@@ -111,7 +111,7 @@ class Edit extends BaseView
                                                 thường</option>
 
                                         </select>
-                                    </div>
+                                    </div> -->
 
                                     <div class="form-group">
                                         <label for="status">Trạng thái*</label>

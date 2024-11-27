@@ -65,8 +65,8 @@ class Create extends BaseView
                                         <input type="number" class="form-control" id="discount_price" placeholder="Nhập giá giảm..." name="discount_price" >
                                     </div>
                                     <div class="form-group">
-                                        <label for="description">Mô tả</label>
-                                        <textarea class="form-control" id="description" placeholder="Nhập mô tả..." name="description"></textarea>
+                                        <label for="discription">Mô tả</label>
+                                        <textarea class="form-control" id="discription" placeholder="Nhập mô tả..." name="discription"></textarea>
                                     </div>
                                     <div class="form-group">
                                         <label for="category_id">Loại sản phẩm*</label>
@@ -83,7 +83,7 @@ class Create extends BaseView
                                         </select>
                                     </div>
 
-                                    <div class="form-group">
+                                    <!-- <div class="form-group">
                                         <label for="is_feature">Sản phẩm nổi bật*</label>
                                         <select class="select2 form-select shadow-none" style="width: 100%; height:36px;" id="is_feature" name="is_feature" >
                                             <option value="" selected disabled>Vui lòng chọn...</option>
@@ -91,7 +91,7 @@ class Create extends BaseView
                                             <option value="0">Bình thường</option>
 
                                         </select>
-                                    </div>
+                                    </div> -->
 
                                     <div class="form-group">
                                         <label for="status">Trạng thái*</label>

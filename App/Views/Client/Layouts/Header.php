@@ -116,7 +116,6 @@ class Header extends BaseView
                     </div>
                 </div>
             </div>
-
         <?php
     }
 }

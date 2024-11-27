@@ -1412,6 +1412,7 @@ Stack trace:
 [25-Nov-2024 14:31:23 Asia/Ho_Chi_Minh] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
 [25-Nov-2024 15:29:33 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "user" in D:\DuAn1\DUAN1\Duan1\App\Helpers\AuthHelper.php on line 158
 [25-Nov-2024 15:29:39 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "user" in D:\DuAn1\DUAN1\Duan1\App\Helpers\AuthHelper.php on line 158
+<<<<<<< Updated upstream
 [27-Nov-2024 10:20:15 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php:49
 Stack trace:
 #0 D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php(49): count()
@@ -1530,3 +1531,202 @@ Stack trace:
 [27-Nov-2024 11:00:53 Asia/Ho_Chi_Minh] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
 [27-Nov-2024 11:00:53 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $item in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 198
 [27-Nov-2024 11:00:53 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 198
+=======
+[27-Nov-2024 14:20:39 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "description" in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[27-Nov-2024 14:20:39 Asia/Ho_Chi_Minh] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[27-Nov-2024 14:23:01 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "product_by_category" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Category\Index.php on line 115
+[27-Nov-2024 14:23:01 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "comment_by_product" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Category\Index.php on line 145
+[27-Nov-2024 14:23:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "product_by_category" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Category\Index.php on line 115
+[27-Nov-2024 14:23:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "comment_by_product" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Category\Index.php on line 145
+[27-Nov-2024 14:28:26 Asia/Ho_Chi_Minh] Lỗi khi thêm dữ liệu: Unknown column 'description' in 'field list'
+[27-Nov-2024 14:33:14 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "description" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 84
+[27-Nov-2024 14:33:14 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 108
+[27-Nov-2024 14:33:14 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 110
+[27-Nov-2024 14:33:14 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "status" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 119
+[27-Nov-2024 14:33:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "description" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 84
+[27-Nov-2024 14:33:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 108
+[27-Nov-2024 14:33:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 110
+[27-Nov-2024 14:33:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "status" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 119
+[27-Nov-2024 14:34:28 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 108
+[27-Nov-2024 14:34:28 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 110
+[27-Nov-2024 14:34:28 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "status" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 119
+[27-Nov-2024 14:34:44 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 108
+[27-Nov-2024 14:34:44 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 110
+[27-Nov-2024 14:34:44 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "status" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 119
+[27-Nov-2024 14:37:48 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 108
+[27-Nov-2024 14:37:48 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 110
+[27-Nov-2024 14:37:48 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "status" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 119
+[27-Nov-2024 14:37:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 108
+[27-Nov-2024 14:37:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 110
+[27-Nov-2024 14:37:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "status" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 119
+[27-Nov-2024 14:40:16 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 108
+[27-Nov-2024 14:40:16 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 110
+[27-Nov-2024 14:40:16 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "status" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 119
+[27-Nov-2024 14:40:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "description" in D:\DuAn1\DUAN1\Duan1\App\Controllers\Admin\ProductController.php on line 211
+[27-Nov-2024 14:40:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: error_log(): Argument #2 ($message_type) must be of type int, string given in D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php:106
+Stack trace:
+#0 D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php(106): error_log()
+#1 D:\DuAn1\DUAN1\Duan1\App\Models\Product.php(25): App\Models\BaseModel->update()
+#2 D:\DuAn1\DUAN1\Duan1\App\Controllers\Admin\ProductController.php(222): App\Models\Product->updateProduct()
+#3 D:\DuAn1\DUAN1\Duan1\App\Route.php(104): App\Controllers\Admin\ProductController::update()
+#4 D:\DuAn1\DUAN1\Duan1\index.php(148): App\Route::dispatch()
+#5 {main}
+  thrown in D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php on line 106
+[27-Nov-2024 14:40:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: error_log(): Argument #2 ($message_type) must be of type int, string given in D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php:106
+Stack trace:
+#0 D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php(106): error_log()
+#1 D:\DuAn1\DUAN1\Duan1\App\Models\Product.php(25): App\Models\BaseModel->update()
+#2 D:\DuAn1\DUAN1\Duan1\App\Controllers\Admin\ProductController.php(222): App\Models\Product->updateProduct()
+#3 D:\DuAn1\DUAN1\Duan1\App\Route.php(104): App\Controllers\Admin\ProductController::update()
+#4 D:\DuAn1\DUAN1\Duan1\index.php(148): App\Route::dispatch()
+#5 {main}
+  thrown in D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php on line 106
+[27-Nov-2024 14:41:03 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 108
+[27-Nov-2024 14:41:03 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 110
+[27-Nov-2024 14:41:03 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "status" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 119
+[27-Nov-2024 14:41:10 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: error_log(): Argument #2 ($message_type) must be of type int, string given in D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php:106
+Stack trace:
+#0 D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php(106): error_log()
+#1 D:\DuAn1\DUAN1\Duan1\App\Models\Product.php(25): App\Models\BaseModel->update()
+#2 D:\DuAn1\DUAN1\Duan1\App\Controllers\Admin\ProductController.php(222): App\Models\Product->updateProduct()
+#3 D:\DuAn1\DUAN1\Duan1\App\Route.php(104): App\Controllers\Admin\ProductController::update()
+#4 D:\DuAn1\DUAN1\Duan1\index.php(148): App\Route::dispatch()
+#5 {main}
+  thrown in D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php on line 106
+[27-Nov-2024 14:41:37 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: error_log(): Argument #2 ($message_type) must be of type int, string given in D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php:106
+Stack trace:
+#0 D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php(106): error_log()
+#1 D:\DuAn1\DUAN1\Duan1\App\Models\Product.php(25): App\Models\BaseModel->update()
+#2 D:\DuAn1\DUAN1\Duan1\App\Controllers\Admin\ProductController.php(222): App\Models\Product->updateProduct()
+#3 D:\DuAn1\DUAN1\Duan1\App\Route.php(104): App\Controllers\Admin\ProductController::update()
+#4 D:\DuAn1\DUAN1\Duan1\index.php(148): App\Route::dispatch()
+#5 {main}
+  thrown in D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php on line 106
+[27-Nov-2024 14:43:55 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: error_log(): Argument #2 ($message_type) must be of type int, string given in D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php:106
+Stack trace:
+#0 D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php(106): error_log()
+#1 D:\DuAn1\DUAN1\Duan1\App\Models\Product.php(25): App\Models\BaseModel->update()
+#2 D:\DuAn1\DUAN1\Duan1\App\Controllers\Admin\ProductController.php(222): App\Models\Product->updateProduct()
+#3 D:\DuAn1\DUAN1\Duan1\App\Route.php(104): App\Controllers\Admin\ProductController::update()
+#4 D:\DuAn1\DUAN1\Duan1\index.php(148): App\Route::dispatch()
+#5 {main}
+  thrown in D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php on line 106
+[27-Nov-2024 14:43:57 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 108
+[27-Nov-2024 14:43:57 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 110
+[27-Nov-2024 14:43:57 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "status" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 119
+[27-Nov-2024 14:43:59 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: error_log(): Argument #2 ($message_type) must be of type int, string given in D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php:106
+Stack trace:
+#0 D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php(106): error_log()
+#1 D:\DuAn1\DUAN1\Duan1\App\Models\Product.php(25): App\Models\BaseModel->update()
+#2 D:\DuAn1\DUAN1\Duan1\App\Controllers\Admin\ProductController.php(222): App\Models\Product->updateProduct()
+#3 D:\DuAn1\DUAN1\Duan1\App\Route.php(104): App\Controllers\Admin\ProductController::update()
+#4 D:\DuAn1\DUAN1\Duan1\index.php(148): App\Route::dispatch()
+#5 {main}
+  thrown in D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php on line 106
+[27-Nov-2024 14:44:06 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 108
+[27-Nov-2024 14:44:06 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 110
+[27-Nov-2024 14:44:06 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "status" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 119
+[27-Nov-2024 14:44:10 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: error_log(): Argument #2 ($message_type) must be of type int, string given in D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php:106
+Stack trace:
+#0 D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php(106): error_log()
+#1 D:\DuAn1\DUAN1\Duan1\App\Models\Product.php(25): App\Models\BaseModel->update()
+#2 D:\DuAn1\DUAN1\Duan1\App\Controllers\Admin\ProductController.php(222): App\Models\Product->updateProduct()
+#3 D:\DuAn1\DUAN1\Duan1\App\Route.php(104): App\Controllers\Admin\ProductController::update()
+#4 D:\DuAn1\DUAN1\Duan1\index.php(148): App\Route::dispatch()
+#5 {main}
+  thrown in D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php on line 106
+[27-Nov-2024 14:46:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 108
+[27-Nov-2024 14:46:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 110
+[27-Nov-2024 14:46:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "status" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 119
+[27-Nov-2024 14:46:22 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 108
+[27-Nov-2024 14:46:22 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 110
+[27-Nov-2024 14:46:22 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "status" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 119
+[27-Nov-2024 14:46:24 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "description" in D:\DuAn1\DUAN1\Duan1\App\Controllers\Admin\ProductController.php on line 211
+[27-Nov-2024 14:46:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: error_log(): Argument #2 ($message_type) must be of type int, string given in D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php:106
+Stack trace:
+#0 D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php(106): error_log()
+#1 D:\DuAn1\DUAN1\Duan1\App\Models\Product.php(25): App\Models\BaseModel->update()
+#2 D:\DuAn1\DUAN1\Duan1\App\Controllers\Admin\ProductController.php(222): App\Models\Product->updateProduct()
+#3 D:\DuAn1\DUAN1\Duan1\App\Route.php(104): App\Controllers\Admin\ProductController::update()
+#4 D:\DuAn1\DUAN1\Duan1\index.php(148): App\Route::dispatch()
+#5 {main}
+  thrown in D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php on line 106
+[27-Nov-2024 14:47:11 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "description" in D:\DuAn1\DUAN1\Duan1\App\Controllers\Admin\ProductController.php on line 211
+[27-Nov-2024 14:47:11 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: error_log(): Argument #2 ($message_type) must be of type int, string given in D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php:106
+Stack trace:
+#0 D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php(106): error_log()
+#1 D:\DuAn1\DUAN1\Duan1\App\Models\Product.php(25): App\Models\BaseModel->update()
+#2 D:\DuAn1\DUAN1\Duan1\App\Controllers\Admin\ProductController.php(222): App\Models\Product->updateProduct()
+#3 D:\DuAn1\DUAN1\Duan1\App\Route.php(104): App\Controllers\Admin\ProductController::update()
+#4 D:\DuAn1\DUAN1\Duan1\index.php(148): App\Route::dispatch()
+#5 {main}
+  thrown in D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php on line 106
+[27-Nov-2024 14:47:12 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "discription" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 84
+[27-Nov-2024 14:47:12 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 108
+[27-Nov-2024 14:47:12 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 110
+[27-Nov-2024 14:47:12 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "status" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 119
+[27-Nov-2024 14:47:13 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "discription" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 84
+[27-Nov-2024 14:47:13 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 108
+[27-Nov-2024 14:47:13 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 110
+[27-Nov-2024 14:47:13 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "status" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 119
+[27-Nov-2024 14:47:15 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "description" in D:\DuAn1\DUAN1\Duan1\App\Controllers\Admin\ProductController.php on line 211
+[27-Nov-2024 14:47:15 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: error_log(): Argument #2 ($message_type) must be of type int, string given in D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php:106
+Stack trace:
+#0 D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php(106): error_log()
+#1 D:\DuAn1\DUAN1\Duan1\App\Models\Product.php(25): App\Models\BaseModel->update()
+#2 D:\DuAn1\DUAN1\Duan1\App\Controllers\Admin\ProductController.php(222): App\Models\Product->updateProduct()
+#3 D:\DuAn1\DUAN1\Duan1\App\Route.php(104): App\Controllers\Admin\ProductController::update()
+#4 D:\DuAn1\DUAN1\Duan1\index.php(148): App\Route::dispatch()
+#5 {main}
+  thrown in D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php on line 106
+[27-Nov-2024 14:47:19 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "description" in D:\DuAn1\DUAN1\Duan1\App\Controllers\Admin\ProductController.php on line 211
+[27-Nov-2024 14:47:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: error_log(): Argument #2 ($message_type) must be of type int, string given in D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php:106
+Stack trace:
+#0 D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php(106): error_log()
+#1 D:\DuAn1\DUAN1\Duan1\App\Models\Product.php(25): App\Models\BaseModel->update()
+#2 D:\DuAn1\DUAN1\Duan1\App\Controllers\Admin\ProductController.php(222): App\Models\Product->updateProduct()
+#3 D:\DuAn1\DUAN1\Duan1\App\Route.php(104): App\Controllers\Admin\ProductController::update()
+#4 D:\DuAn1\DUAN1\Duan1\index.php(148): App\Route::dispatch()
+#5 {main}
+  thrown in D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php on line 106
+[27-Nov-2024 14:47:42 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "description" in D:\DuAn1\DUAN1\Duan1\App\Controllers\Admin\ProductController.php on line 211
+[27-Nov-2024 14:47:42 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: error_log(): Argument #2 ($message_type) must be of type int, string given in D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php:106
+Stack trace:
+#0 D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php(106): error_log()
+#1 D:\DuAn1\DUAN1\Duan1\App\Models\Product.php(25): App\Models\BaseModel->update()
+#2 D:\DuAn1\DUAN1\Duan1\App\Controllers\Admin\ProductController.php(222): App\Models\Product->updateProduct()
+#3 D:\DuAn1\DUAN1\Duan1\App\Route.php(104): App\Controllers\Admin\ProductController::update()
+#4 D:\DuAn1\DUAN1\Duan1\index.php(148): App\Route::dispatch()
+#5 {main}
+  thrown in D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php on line 106
+[27-Nov-2024 14:48:04 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "description" in D:\DuAn1\DUAN1\Duan1\App\Controllers\Admin\ProductController.php on line 211
+[27-Nov-2024 14:48:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: error_log(): Argument #2 ($message_type) must be of type int, string given in D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php:106
+Stack trace:
+#0 D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php(106): error_log()
+#1 D:\DuAn1\DUAN1\Duan1\App\Models\Product.php(25): App\Models\BaseModel->update()
+#2 D:\DuAn1\DUAN1\Duan1\App\Controllers\Admin\ProductController.php(222): App\Models\Product->updateProduct()
+#3 D:\DuAn1\DUAN1\Duan1\App\Route.php(104): App\Controllers\Admin\ProductController::update()
+#4 D:\DuAn1\DUAN1\Duan1\index.php(148): App\Route::dispatch()
+#5 {main}
+  thrown in D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php on line 106
+[27-Nov-2024 14:48:05 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "discription" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 84
+[27-Nov-2024 14:48:05 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 108
+[27-Nov-2024 14:48:05 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 110
+[27-Nov-2024 14:48:05 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "status" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 119
+[27-Nov-2024 14:48:07 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "discription" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 84
+[27-Nov-2024 14:48:07 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 108
+[27-Nov-2024 14:48:07 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "is_feature" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 110
+[27-Nov-2024 14:48:07 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "status" in D:\DuAn1\DUAN1\Duan1\App\Views\Admin\Pages\Product\Edit.php on line 119
+[27-Nov-2024 14:48:09 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "description" in D:\DuAn1\DUAN1\Duan1\App\Controllers\Admin\ProductController.php on line 211
+[27-Nov-2024 14:48:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: error_log(): Argument #2 ($message_type) must be of type int, string given in D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php:106
+Stack trace:
+#0 D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php(106): error_log()
+#1 D:\DuAn1\DUAN1\Duan1\App\Models\Product.php(25): App\Models\BaseModel->update()
+#2 D:\DuAn1\DUAN1\Duan1\App\Controllers\Admin\ProductController.php(222): App\Models\Product->updateProduct()
+#3 D:\DuAn1\DUAN1\Duan1\App\Route.php(104): App\Controllers\Admin\ProductController::update()
+#4 D:\DuAn1\DUAN1\Duan1\index.php(148): App\Route::dispatch()
+#5 {main}
+  thrown in D:\DuAn1\DUAN1\Duan1\App\Models\BaseModel.php on line 106
+[27-Nov-2024 14:49:11 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "description" in D:\DuAn1\DUAN1\Duan1\App\Controllers\Admin\ProductController.php on line 103
+[27-Nov-2024 14:49:11 Asia/Ho_Chi_Minh] Lỗi khi thêm dữ liệu: Field 'quantity' doesn't have a default value
+>>>>>>> Stashed changes
