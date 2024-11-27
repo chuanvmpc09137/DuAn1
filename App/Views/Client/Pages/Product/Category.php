@@ -60,7 +60,7 @@ class Category extends BaseView
                                                     <a href="/products/<?= $item['id'] ?>" type="button" class="btn btn-sm btn-outline-info">Chi tiết</a>
                                                     <form action="#" method="post">
                                                         <input type="hidden" name="method" id="" value="POST">
-                                                        <button type="submit" class="btn btn-sm btn-outline-success">Thêm vào giỏ hàng</button>
+                                                        <a href="/cart/<?= $item['id'] ?>"><button type="submit" class="btn btn-sm btn-outline-success">Thêm vào giỏ hàng</button></a>
                                                     </form>
                                                 </div>
                                             </div>

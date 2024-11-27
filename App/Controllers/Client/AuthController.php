@@ -12,6 +12,7 @@ use App\Views\Client\Pages\Auth\Register;
 use LDAP\Result;
 use App\Models\User;
 use App\Views\Client\Components\Notification;
+use App\Views\Client\Pages\Auth\Cart;
 use App\Views\Client\Pages\Auth\ChangePassword;
 use App\Views\Client\Pages\Auth\Edit;
 use App\Views\Client\Pages\Auth\ForgotPassword;
@@ -306,4 +307,18 @@ class AuthController
             
         }
     }
+
+
+    public static function cart()
+    {
+        
+        header::render();
+        Notification::render();
+        NotificationHelper::unset();
+        Cart::render();
+        Footer::render();
+        // Kiểm tra nếu ID là số
+        
+    }
+    
 }

@@ -42,6 +42,8 @@ Route::delete('/comments/{id}', 'App\Controllers\Client\CommentController@delete
 Route::get('/register', 'App\Controllers\Client\AuthController@register');
 Route::post('/register', 'App\Controllers\Client\AuthController@registerAction');
 
+
+
 Route::get('/login', 'App\Controllers\Client\AuthController@login');
 Route::post('/login', 'App\Controllers\Client\AuthController@loginAction');
 

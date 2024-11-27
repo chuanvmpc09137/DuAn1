@@ -46,7 +46,7 @@ class Index extends BaseView
                                             <div class="d-flex justify-content-between align-items-center">
                                                 <div class="btn-group">
                                                     <a href="/products/<?= $item['id'] ?>" type="button" class="btn btn-sm btn-outline-info">Chi tiết</a>
-                                                    <form action="/cart/add" method="post">
+                                                    <form action="/cart/<?= $item['id'] ?>" method="post">
                                                         <input type="hidden" name="method" id="" value="POST">
                                                         <input type="hidden" name="id" id="" value="<?= $item['id'] ?>" required>
                                                         <button type="submit" class="btn btn-sm btn-outline-success">Thêm vào giỏ hàng</button>

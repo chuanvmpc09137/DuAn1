@@ -1412,3 +1412,121 @@ Stack trace:
 [25-Nov-2024 14:31:23 Asia/Ho_Chi_Minh] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
 [25-Nov-2024 15:29:33 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "user" in D:\DuAn1\DUAN1\Duan1\App\Helpers\AuthHelper.php on line 158
 [25-Nov-2024 15:29:39 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "user" in D:\DuAn1\DUAN1\Duan1\App\Helpers\AuthHelper.php on line 158
+[27-Nov-2024 10:20:15 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php:49
+Stack trace:
+#0 D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php(49): count()
+#1 D:\DuAn1\DUAN1\Duan1\App\Controllers\Client\AuthController.php(318): App\Views\Client\Pages\Auth\Cart::render()
+#2 D:\DuAn1\DUAN1\Duan1\App\Route.php(82): App\Controllers\Client\AuthController::cart()
+#3 D:\DuAn1\DUAN1\Duan1\index.php(151): App\Route::dispatch()
+#4 {main}
+  thrown in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php on line 49
+[27-Nov-2024 10:20:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php:49
+Stack trace:
+#0 D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php(49): count()
+#1 D:\DuAn1\DUAN1\Duan1\App\Controllers\Client\AuthController.php(318): App\Views\Client\Pages\Auth\Cart::render()
+#2 D:\DuAn1\DUAN1\Duan1\App\Route.php(82): App\Controllers\Client\AuthController::cart()
+#3 D:\DuAn1\DUAN1\Duan1\index.php(151): App\Route::dispatch()
+#4 {main}
+  thrown in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php on line 49
+[27-Nov-2024 10:20:25 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php:49
+Stack trace:
+#0 D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php(49): count()
+#1 D:\DuAn1\DUAN1\Duan1\App\Controllers\Client\AuthController.php(318): App\Views\Client\Pages\Auth\Cart::render()
+#2 D:\DuAn1\DUAN1\Duan1\App\Route.php(82): App\Controllers\Client\AuthController::cart()
+#3 D:\DuAn1\DUAN1\Duan1\index.php(151): App\Route::dispatch()
+#4 {main}
+  thrown in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php on line 49
+[27-Nov-2024 10:20:49 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php:49
+Stack trace:
+#0 D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php(49): count()
+#1 D:\DuAn1\DUAN1\Duan1\App\Controllers\Client\AuthController.php(318): App\Views\Client\Pages\Auth\Cart::render()
+#2 D:\DuAn1\DUAN1\Duan1\App\Route.php(82): App\Controllers\Client\AuthController::cart()
+#3 D:\DuAn1\DUAN1\Duan1\index.php(151): App\Route::dispatch()
+#4 {main}
+  thrown in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php on line 49
+[27-Nov-2024 10:21:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php:49
+Stack trace:
+#0 D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php(49): count()
+#1 D:\DuAn1\DUAN1\Duan1\App\Controllers\Client\AuthController.php(318): App\Views\Client\Pages\Auth\Cart::render()
+#2 D:\DuAn1\DUAN1\Duan1\App\Route.php(82): App\Controllers\Client\AuthController::cart()
+#3 D:\DuAn1\DUAN1\Duan1\index.php(151): App\Route::dispatch()
+#4 {main}
+  thrown in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php on line 49
+[27-Nov-2024 10:21:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php:49
+Stack trace:
+#0 D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php(49): count()
+#1 D:\DuAn1\DUAN1\Duan1\App\Controllers\Client\AuthController.php(318): App\Views\Client\Pages\Auth\Cart::render()
+#2 D:\DuAn1\DUAN1\Duan1\App\Route.php(82): App\Controllers\Client\AuthController::cart()
+#3 D:\DuAn1\DUAN1\Duan1\index.php(151): App\Route::dispatch()
+#4 {main}
+  thrown in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php on line 49
+[27-Nov-2024 10:21:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php:49
+Stack trace:
+#0 D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php(49): count()
+#1 D:\DuAn1\DUAN1\Duan1\App\Controllers\Client\AuthController.php(318): App\Views\Client\Pages\Auth\Cart::render()
+#2 D:\DuAn1\DUAN1\Duan1\App\Route.php(82): App\Controllers\Client\AuthController::cart()
+#3 D:\DuAn1\DUAN1\Duan1\index.php(151): App\Route::dispatch()
+#4 {main}
+  thrown in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php on line 49
+[27-Nov-2024 10:22:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php:49
+Stack trace:
+#0 D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php(49): count()
+#1 D:\DuAn1\DUAN1\Duan1\App\Controllers\Client\AuthController.php(318): App\Views\Client\Pages\Auth\Cart::render()
+#2 D:\DuAn1\DUAN1\Duan1\App\Route.php(82): App\Controllers\Client\AuthController::cart()
+#3 D:\DuAn1\DUAN1\Duan1\index.php(151): App\Route::dispatch()
+#4 {main}
+  thrown in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php on line 49
+[27-Nov-2024 10:23:08 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $item in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php on line 66
+[27-Nov-2024 10:23:08 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php on line 66
+[27-Nov-2024 10:23:08 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $item in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php on line 67
+[27-Nov-2024 10:23:08 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php on line 67
+[27-Nov-2024 10:23:08 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $item in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php on line 68
+[27-Nov-2024 10:23:08 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Auth\Cart.php on line 68
+[27-Nov-2024 10:40:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "description" in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[27-Nov-2024 10:40:21 Asia/Ho_Chi_Minh] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[27-Nov-2024 10:42:47 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "description" in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[27-Nov-2024 10:42:47 Asia/Ho_Chi_Minh] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[27-Nov-2024 10:42:47 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $item in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 196
+[27-Nov-2024 10:42:47 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 196
+[27-Nov-2024 10:42:47 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $item in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 198
+[27-Nov-2024 10:42:47 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 198
+[27-Nov-2024 10:42:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "description" in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[27-Nov-2024 10:42:59 Asia/Ho_Chi_Minh] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[27-Nov-2024 10:42:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $item in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 196
+[27-Nov-2024 10:42:59 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 196
+[27-Nov-2024 10:42:59 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $item in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 198
+[27-Nov-2024 10:42:59 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 198
+[27-Nov-2024 10:44:35 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "description" in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[27-Nov-2024 10:44:35 Asia/Ho_Chi_Minh] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[27-Nov-2024 10:47:50 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "description" in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[27-Nov-2024 10:47:50 Asia/Ho_Chi_Minh] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[27-Nov-2024 10:47:50 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $item in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 196
+[27-Nov-2024 10:47:50 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 196
+[27-Nov-2024 10:47:50 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $item in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 197
+[27-Nov-2024 10:47:50 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 197
+[27-Nov-2024 10:47:50 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $item in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 199
+[27-Nov-2024 10:47:50 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 199
+[27-Nov-2024 10:48:06 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "description" in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[27-Nov-2024 10:48:06 Asia/Ho_Chi_Minh] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[27-Nov-2024 10:48:06 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $item in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 196
+[27-Nov-2024 10:48:06 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 196
+[27-Nov-2024 10:48:06 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $item in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 198
+[27-Nov-2024 10:48:06 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 198
+[27-Nov-2024 10:49:08 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "description" in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[27-Nov-2024 10:49:08 Asia/Ho_Chi_Minh] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[27-Nov-2024 10:49:08 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $item in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 197
+[27-Nov-2024 10:49:08 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 197
+[27-Nov-2024 10:49:08 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $item in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 199
+[27-Nov-2024 10:49:08 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 199
+[27-Nov-2024 10:51:44 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "description" in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[27-Nov-2024 10:51:44 Asia/Ho_Chi_Minh] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[27-Nov-2024 10:51:44 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $item in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 198
+[27-Nov-2024 10:51:44 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 198
+[27-Nov-2024 10:51:48 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "description" in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[27-Nov-2024 10:51:48 Asia/Ho_Chi_Minh] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[27-Nov-2024 10:51:48 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $item in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 198
+[27-Nov-2024 10:51:48 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 198
+[27-Nov-2024 11:00:53 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "description" in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[27-Nov-2024 11:00:53 Asia/Ho_Chi_Minh] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 23
+[27-Nov-2024 11:00:53 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $item in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 198
+[27-Nov-2024 11:00:53 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in D:\DuAn1\DUAN1\Duan1\App\Views\Client\Pages\Product\Detail.php on line 198
